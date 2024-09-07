@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+
+#board {
+    background-color: lightcyan;
+    border-bottom: 20px solid gray;
+}
+#restartButton {
+    margin: 0 auto;
+    display: block;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+}
